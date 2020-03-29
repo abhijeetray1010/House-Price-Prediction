@@ -19,7 +19,7 @@ location: House location
 
 size: BHK of the house (ex. 2,3)
 
-society: Type od socity house located in
+society: Type of society house located in
 
 total_sqft: Total Square foot of the house
 
